@@ -17,7 +17,6 @@ public class NetbeansGithub {
         System.out.println("Prueba desde netbeans");
         System.out.println("Prueba desde Github");
         
-        System.out.println("Linea 1 desarrolador1");
         
         
     }
