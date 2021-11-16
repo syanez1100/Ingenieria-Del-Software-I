@@ -17,6 +17,10 @@ public class NetbeansGithub {
         System.out.println("Prueba desde netbeans");
         System.out.println("Prueba desde Github");
         
+        System.out.println("Esta es la rama MASTER");
+        
+        System.out.println("Desarrollador1");
+        
         
     }
     
