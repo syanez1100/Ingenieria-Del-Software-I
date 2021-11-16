@@ -15,6 +15,7 @@ public class NetbeansGithub {
      */
     public static void main(String[] args) {
         System.out.println("Prueba desde netbeans");
+        System.out.println("Prueba desde Github");
         
         
     }
